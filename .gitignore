@@ -1,2 +1,5 @@
 data/
 venv/
+PS2/datasets/map_home_locations.html
+PS2/datasets/map_heatmap_towers.html
+PS2/datasets/figure_tower_density.png
